@@ -1,0 +1,52 @@
+.image {
+  height: 100px;
+  width: 150px;
+  margin-right: 200px;
+}
+.login {
+  position: relative;
+  left: 500px;
+  bottom: 90px;
+  height: 170px;
+}
+
+.car1 {
+  width: 800px;
+  height: 250px;
+  align-items: center;
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(172, 173, 172);
+  padding: 10px;
+}
+.titre {
+  color: blue;
+  text-align: center;
+}
+.p2 {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.name {
+  text-align: center;
+}
+.pi {
+  text-align: center;
+  color: rgb(250, 17, 17);
+}
+.po {
+  text-align: center;
+}
+.btn1 {
+  transition-duration: 0.4s;
+  margin-left: 250px;
+}
+
+.btn1:hover {
+  background-color: #0c08eb; /* Green */
+  color: white;
+  text-align: center;
+}
